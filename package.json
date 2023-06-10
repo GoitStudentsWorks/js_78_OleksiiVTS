@@ -2,10 +2,10 @@
   "name": "team-js-goit",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/OleksiiVTS/team-js-goit",
+  "homepage": "https://GoitStudentsWorks.github.io/js_78_OleksiiVTS",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-js-goit/"
+    "build": "parcel build src/*.html --public-url /js_78_OleksiiVTS/"
   },
   "repository": {
     "type": "git",
